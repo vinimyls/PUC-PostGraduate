@@ -1,4 +1,4 @@
-#  Postgraduate Sofware Engineer
+#  Postgraduate Software Engineer
 
 ### Design Pattern
 [Criational](https://github.com/vinimyls/PUC-PostGraduate/tree/master/Criational) : create pool of connections with a fake database.
