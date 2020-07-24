@@ -1,0 +1,13 @@
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.exe
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.deps.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.runtimeconfig.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.runtimeconfig.dev.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.dll
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\bin\Debug\netcoreapp3.1\behavioral.pdb
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.csprojAssemblyReference.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.csproj.CoreCompileInputs.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.AssemblyInfoInputs.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.AssemblyInfo.cs
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.dll
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.pdb
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\behavioral\obj\Debug\netcoreapp3.1\behavioral.genruntimeconfig.cache

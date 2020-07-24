@@ -1,0 +1,11 @@
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\obj\Debug\netcoreapp3.0\Criational.csprojAssemblyReference.cache
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\obj\Debug\netcoreapp3.0\Criational.AssemblyInfoInputs.cache
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\obj\Debug\netcoreapp3.0\Criational.AssemblyInfo.cs
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\obj\Debug\netcoreapp3.0\Criational.dll
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\obj\Debug\netcoreapp3.0\Criational.pdb
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.exe
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.deps.json
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.runtimeconfig.json
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.runtimeconfig.dev.json
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.dll
+C:\Users\projetos\Dropbox\puc-pos\padrões de projetos\Criational\bin\Debug\netcoreapp3.0\Criational.pdb

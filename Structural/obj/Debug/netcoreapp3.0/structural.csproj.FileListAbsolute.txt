@@ -1,0 +1,24 @@
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.exe
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.deps.json
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.runtimeconfig.json
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.runtimeconfig.dev.json
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.dll
+C:\Users\projetos\Structural\bin\Debug\netcoreapp3.0\structural.pdb
+C:\Users\projetos\Structural\obj\Debug\netcoreapp3.0\structural.csprojAssemblyReference.cache
+C:\Users\projetos\Structural\obj\Debug\netcoreapp3.0\structural.AssemblyInfoInputs.cache
+C:\Users\projetos\Structural\obj\Debug\netcoreapp3.0\structural.AssemblyInfo.cs
+C:\Users\projetos\Structural\obj\Debug\netcoreapp3.0\structural.dll
+C:\Users\projetos\Structural\obj\Debug\netcoreapp3.0\structural.pdb
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.exe
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.deps.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.runtimeconfig.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.runtimeconfig.dev.json
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.dll
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\bin\Debug\netcoreapp3.0\structural.pdb
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.csprojAssemblyReference.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.csproj.CoreCompileInputs.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.AssemblyInfoInputs.cache
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.AssemblyInfo.cs
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.dll
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.pdb
+C:\Users\vinim\Dropbox\puc-pos\padrões de projetos\Structural\obj\Debug\netcoreapp3.0\structural.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/aW4vcuxZzUKDbO6IDD3dNwIOakM9zq7YOd6R6q5pK/OOiEsuoFCWHEdSOxOoUm24L/aHlo/fSDP0kgn16fEhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinim\\Dropbox\\puc-pos\\padrões de projetos\\Structural\\structural.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\vinim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\vinim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\vinim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
